@@ -40,36 +40,36 @@ e a quantidade de litros de combustível gastos (considerando um consumo de 12 k
 
 * **Descrição:** Recebe os horários de início e término de um jogo (horas e minutos) e calcula a duração total do evento.
 
-### 1. `26M.py` — Verificação de Números Múltiplos
+### 11. `26M.py` — Verificação de Números Múltiplos
 
 * **Descrição:** Recebe dois números inteiros, identifica qual é o maior e o menor, e verifica se o maior número é múltiplo do menor.
 
-### 2. `27VM.py` — Cálculo da Velocidade Média em Circuito
+### 12. `27VM.py` — Cálculo da Velocidade Média em Circuito
 
 * **Descrição:** Recebe o número de voltas, a extensão do circuito (em metros) e o tempo (em minutos), calculando e exibindo a velocidade média em km/h.
-### 3. `28PN.py` — Reajuste de Preço de Produto
+### 13. `28PN.py` — Reajuste de Preço de Produto
 
 * **Descrição:** Recebe a venda mensal e o preço atual de um produto para calcular o novo valor reajustado com base em faixas de vendas e preços.
 
 
 
-### 4. `29I.py` — Rendimento de Investimento (Poupança ou Renda Fixa)
+### 14. `29I.py` — Rendimento de Investimento (Poupança ou Renda Fixa)
 
 * **Descrição:** Recebe o tipo de investimento selecionado (1 para Poupança e 2 para Renda Fixa) e o valor inicial para calcular o saldo final após o rendimento de 3% ou 5%.
 
 
 
-### 5. `SO1.py` — Cálculo do Fatorial de um Número
+### 15. `SO1.py` — Cálculo do Fatorial de um Número
 
 * **Descrição:** Recebe um número inteiro e utiliza uma função com laço de repetição (`for`) para calcular e retornar o seu fatorial.
 
 
 
-### 6. `SO2.py` — Soma da Série de Taylor / Fatorial ($1 + 1/1! + 1/2! + ... + 1/N!$)
+### 16. `SO2.py` — Soma da Série de Taylor / Fatorial ($1 + 1/1! + 1/2! + ... + 1/N!$)
 
 * **Descrição:** Utiliza funções para cálculo de fatorial e divisão para obter o resultado acumulado da série matemática com base em um valor $N$ informado pelo usuário.
 
 
-### 10. `25DJ.py` — Duração de um Jogo em Horas e Minutos
+### 17. `25DJ.py` — Duração de um Jogo em Horas e Minutos
 
 * **Descrição:** Recebe os horários de início e término de um jogo (horas e minutos) e calcula a duração total do evento.
