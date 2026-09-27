@@ -1,4 +1,4 @@
-Author:Caroline Maria Andrade De Lima
+### Author: Caroline Maria Andrade De Lima
 ### 1. `16SL.py` — Cálculo do Salário Líquido
 * **Descrição:** Recebe as horas trabalhadas, o valor por hora, o percentual de desconto
 e o número de dependentes para calcular e exibir o salário líquido final.
